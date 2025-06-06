@@ -39,7 +39,7 @@ Also:
 | Frontend     | React.js, Chrome Extension APIs |
 | Backend      | FastAPI, MongoDB              |
 | ML Models    | TensorFlow, scikit-learn, OpenCV |
-| Dev Tools    | Docker, Git, VS Code, Pycharm |
+| Dev Tools    |  Git, VS Code, Pycharm |
 | Bonus Swag   | Admin Dashboard + Swanky UI ✨ |
 
 ---
